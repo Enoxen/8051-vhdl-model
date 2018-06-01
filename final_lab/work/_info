@@ -1,0 +1,555 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dd:/programming/hdl designer/Hds/examples
+Pin_states
+Z0 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 w1527663817
+Z4 dD:/labs/VHDL/final_lab/work
+8D:/labs/VHDL/final_lab/hdl/in_states_pkg.vhd
+FD:/labs/VHDL/final_lab/hdl/in_states_pkg.vhd
+l0
+L14
+V2MRTaeGQ<OJLKC326I>X_2
+!s100 ^NdRb>nV;3UHI9>S3ol8?1
+Z5 OP;C;10.4a;61
+32
+b1
+Z6 !s110 1527675913
+!i10b 1
+Z7 !s108 1527675913.000000
+Z8 !s90 -work|D:\labs\VHDL\final_lab\work|-nologo|-f|C:\Users\Y50-70\AppData\Local\Temp\files0|
+Z9 !s107 D:/labs/VHDL/final_lab/hdl/mk_51a_struct.vhd|D:/labs/VHDL/final_lab/hdl/temp_mux_mux.vhd|D:/labs/VHDL/final_lab/hdl/mk_uu_uu.vhd|D:/labs/VHDL/final_lab/hdl/tb_tb.vhd|D:/labs/VHDL/final_lab/hdl/mk_rom_rom.vhd|D:/labs/VHDL/final_lab/hdl/mk_reg2_reg2.vhd|D:/labs/VHDL/final_lab/hdl/mk_reg1_reg1.vhd|D:/labs/VHDL/final_lab/hdl/mk_ram_ram.vhd|D:/labs/VHDL/final_lab/hdl/mk_pc_pc.vhd|D:/labs/VHDL/final_lab/hdl/mk_alu_alu.vhd|D:/labs/VHDL/final_lab/hdl/in_states_pkg_body.vhd|D:/labs/VHDL/final_lab/hdl/in_states_pkg.vhd|
+!i113 1
+Z10 o-nologo -work {D:\labs\VHDL\final_lab\work} -O0
+Z11 tExplicit 1
+Bbody
+Z12 DPx4 work 9 in_states 0 22 2MRTaeGQ<OJLKC326I>X_2
+R0
+R1
+R2
+Z13 8D:/labs/VHDL/final_lab/hdl/in_states_pkg_body.vhd
+Z14 FD:/labs/VHDL/final_lab/hdl/in_states_pkg_body.vhd
+l0
+L10
+Z15 V>AJNb7Q:LoK]Q0kzDdX=W2
+Z16 !s100 WL7o]k]m4ec_PRBc?g[IO1
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Z17 nbody
+Emk_51a
+Z18 w1527674835
+Z19 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R1
+R2
+R4
+Z20 8D:/labs/VHDL/final_lab/hdl/mk_51a_struct.vhd
+Z21 FD:/labs/VHDL/final_lab/hdl/mk_51a_struct.vhd
+l0
+L17
+VDjWQi^X1jiJGL6lZ0P?4_0
+!s100 g_g@ijQJ41@_^KzLf>n192
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Astruct
+Z22 DEx9 final_lab 8 temp_mux 0 22 C;jS>klfeU3X]llb[VVGO0
+Z23 DEx9 final_lab 2 tb 0 22 O^;J<mS0K`faL?0XNX7dh0
+Z24 DEx9 final_lab 5 mk_uu 0 22 XXfa>A0^MJPLEF5LfH<io2
+Z25 DEx9 final_lab 6 mk_rom 0 22 7W3HTDaB@>V30bG_Z8?1h3
+Z26 DEx9 final_lab 7 mk_reg2 0 22 ;b`dk9DGkCSEJ^kfE6YXH0
+Z27 DEx9 final_lab 7 mk_reg1 0 22 GO23k1j6mMQdNh=`?dEXl3
+Z28 DEx9 final_lab 6 mk_ram 0 22 L4kFaU:hgU4P2odbHWiWN2
+Z29 DEx9 final_lab 5 mk_pc 0 22 fU<B;:KD[bJ0I9d>Qc:Nd2
+Z30 DEx9 final_lab 6 mk_alu 0 22 4C;=85giEd63YhL`Gdo>F1
+Z31 DEx4 work 6 mk_51a 0 22 DjWQi^X1jiJGL6lZ0P?4_0
+Z32 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z33 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R0
+Z34 DPx9 final_lab 9 in_states 0 22 2MRTaeGQ<OJLKC326I>X_2
+R19
+R1
+R2
+l198
+L44
+Z35 VF_]>S6zB_2`ioIYkHfOoe2
+Z36 !s100 ^OiKdEW;^gmE5BVEzlib?2
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Emk_51a_tb
+w1527201074
+R4
+8D:/labs/VHDL/final_lab/hdl/mk_51a_tb_struct.vhd
+FD:/labs/VHDL/final_lab/hdl/mk_51a_tb_struct.vhd
+l0
+L14
+VoP^^?BXYzWN`1<OUR=^bi2
+!s100 Gg<fD:JGDaO=ZV90WNjWo0
+R5
+32
+!s110 1527201076
+!i10b 1
+!s108 1527201076.000000
+!s90 -work|D:\labs\VHDL\final_lab\work|-nologo|-f|C:\Users\Y50-70\AppData\Local\Temp\files30|
+!s107 D:/labs/VHDL/final_lab/hdl/mk_51a_tb_struct.vhd|
+!i113 1
+R10
+R11
+Emk_alu
+Z37 w1527192857
+R0
+R34
+R19
+R1
+R2
+R4
+Z38 8D:/labs/VHDL/final_lab/hdl/mk_alu_alu.vhd
+Z39 FD:/labs/VHDL/final_lab/hdl/mk_alu_alu.vhd
+l0
+L19
+V4C;=85giEd63YhL`Gdo>F1
+!s100 >Y9i`TQT?fjMSW]kF6m<00
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Aalu
+R0
+R34
+R19
+R1
+R2
+Z40 DEx4 work 6 mk_alu 0 22 4C;=85giEd63YhL`Gdo>F1
+l37
+L36
+Z41 VkoH`KhZ]<hh8j>4:V=bXm0
+Z42 !s100 <<ZjJ`jP6@h7dieneTES@3
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Emk_pc
+Z43 w1527201083
+R33
+R19
+R1
+R2
+R4
+Z44 8D:/labs/VHDL/final_lab/hdl/mk_pc_pc.vhd
+Z45 FD:/labs/VHDL/final_lab/hdl/mk_pc_pc.vhd
+l0
+L18
+VfU<B;:KD[bJ0I9d>Qc:Nd2
+!s100 FQ]NBoo=Mg46ad`zZY[:@2
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Apc
+R33
+R19
+R1
+R2
+Z46 DEx4 work 5 mk_pc 0 22 fU<B;:KD[bJ0I9d>Qc:Nd2
+l37
+L35
+Z47 VeeYdL2oO9@Bz8UC?7P0FV2
+Z48 !s100 Y;N5_:5jJZ3F0ZDJTG]D52
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Emk_ram
+Z49 w1527673255
+R32
+R33
+R19
+R1
+R2
+R4
+Z50 8D:/labs/VHDL/final_lab/hdl/mk_ram_ram.vhd
+Z51 FD:/labs/VHDL/final_lab/hdl/mk_ram_ram.vhd
+l0
+L18
+VL4kFaU:hgU4P2odbHWiWN2
+!s100 ;:`N_mSkAco>oke6Io>dA2
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Aram
+R32
+R33
+R19
+R1
+R2
+Z52 DEx4 work 6 mk_ram 0 22 L4kFaU:hgU4P2odbHWiWN2
+l50
+L32
+Z53 VU;8OKTRdcHbfmh9zDQU632
+Z54 !s100 z9azkLGgPg=^ZeIHMUm=^1
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Emk_reg1
+Z55 w1527193440
+R0
+R34
+R19
+R1
+R2
+R4
+Z56 8D:/labs/VHDL/final_lab/hdl/mk_reg1_reg1.vhd
+Z57 FD:/labs/VHDL/final_lab/hdl/mk_reg1_reg1.vhd
+l0
+L19
+VGO23k1j6mMQdNh=`?dEXl3
+!s100 2AQH0bGg87Ka9Pi7Q:JhP0
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Areg1
+R0
+R34
+R19
+R1
+R2
+Z58 DEx4 work 7 mk_reg1 0 22 GO23k1j6mMQdNh=`?dEXl3
+l34
+L32
+Z59 V>RbzK?g21AgKb:IikJ0jO3
+Z60 !s100 4^V@e>2bS0mlGdfFNfQCo0
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Emk_reg2
+Z61 w1527522507
+R19
+R1
+R2
+R4
+Z62 8D:/labs/VHDL/final_lab/hdl/mk_reg2_reg2.vhd
+Z63 FD:/labs/VHDL/final_lab/hdl/mk_reg2_reg2.vhd
+l0
+L17
+V;b`dk9DGkCSEJ^kfE6YXH0
+!s100 gCflFlG0AMN06c><3ZW033
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Areg2
+R19
+R1
+R2
+Z64 DEx4 work 7 mk_reg2 0 22 ;b`dk9DGkCSEJ^kfE6YXH0
+l33
+L31
+Z65 VlHGiYjm[Z70_>M[[S;HkH2
+Z66 !s100 @Nfj1Y^]?]O>NdjU3zPCm2
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Emk_rom
+Z67 w1527201084
+R33
+R32
+R0
+R34
+R19
+R1
+R2
+R4
+Z68 8D:/labs/VHDL/final_lab/hdl/mk_rom_rom.vhd
+Z69 FD:/labs/VHDL/final_lab/hdl/mk_rom_rom.vhd
+l0
+L23
+V7W3HTDaB@>V30bG_Z8?1h3
+!s100 kn7Md[C1n4VAYff=TLBjl1
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Arom
+R33
+R32
+R0
+R34
+R19
+R1
+R2
+Z70 DEx4 work 6 mk_rom 0 22 7W3HTDaB@>V30bG_Z8?1h3
+l56
+L36
+Z71 VEdnM?PfR<>ESk638mQRi03
+Z72 !s100 jKfS4FVS<zSz2R0PZdOHa2
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Emk_uu
+R18
+R33
+R0
+R34
+R19
+R1
+R2
+R4
+Z73 8D:/labs/VHDL/final_lab/hdl/mk_uu_uu.vhd
+Z74 FD:/labs/VHDL/final_lab/hdl/mk_uu_uu.vhd
+l0
+L22
+VXXfa>A0^MJPLEF5LfH<io2
+!s100 gRcF@DzJmU5DPOCRM?Y@N1
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Auu
+R33
+R0
+R34
+R19
+R1
+R2
+Z75 DEx4 work 5 mk_uu 0 22 XXfa>A0^MJPLEF5LfH<io2
+l59
+L55
+Z76 Vj2HajJR0=]>RA4P8`0X0H2
+Z77 !s100 CEACzRYW8^aOL?;V_KiY43
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Pstates
+R1
+R2
+w1527190567
+R4
+8D:/labs/VHDL/final_lab/hdl/states_pkg.vhd
+FD:/labs/VHDL/final_lab/hdl/states_pkg.vhd
+l0
+L12
+VHoh[SBh<_2YCJVDUE@71@1
+!s100 @U<N83IQj55WO[AYCXeKO2
+R5
+32
+b1
+!s110 1527190573
+!i10b 1
+!s108 1527190572.000000
+!s90 -work|D:\labs\VHDL\final_lab\work|-nologo|-f|C:\Users\Y50-70\AppData\Local\Temp\files19|
+!s107 D:/labs/VHDL/final_lab/hdl/states_pkg_body.vhd|D:/labs/VHDL/final_lab/hdl/states_pkg.vhd|
+!i113 1
+R10
+R11
+Etb
+Z78 w1527204828
+R32
+R33
+R0
+R34
+R19
+R1
+R2
+R4
+Z79 8D:/labs/VHDL/final_lab/hdl/tb_tb.vhd
+Z80 FD:/labs/VHDL/final_lab/hdl/tb_tb.vhd
+l0
+L22
+VO^;J<mS0K`faL?0XNX7dh0
+!s100 E9FAZA24:UeLH^LLHNe7T3
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Atb
+R32
+R33
+R0
+R34
+R19
+R1
+R2
+Z81 DEx4 work 2 tb 0 22 O^;J<mS0K`faL?0XNX7dh0
+l38
+L33
+Z82 VJU[VlI8FKCD6>_GLQ8JR33
+Z83 !s100 ;CZzWWOTI_3nQhf41>dYH1
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Etemp_mux
+Z84 w1527614378
+R19
+R1
+R2
+R4
+Z85 8D:/labs/VHDL/final_lab/hdl/temp_mux_mux.vhd
+Z86 FD:/labs/VHDL/final_lab/hdl/temp_mux_mux.vhd
+l0
+L17
+VC;jS>klfeU3X]llb[VVGO0
+!s100 =z0TJ^SZ<hTn>JS0e8?`j2
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11
+Amux
+R19
+R1
+R2
+Z87 DEx4 work 8 temp_mux 0 22 C;jS>klfeU3X]llb[VVGO0
+l32
+L31
+Z88 V]P1D9KPV_1_k5@>CLYBz30
+Z89 !s100 o8zTK<]m6VW9P;DEfFBdk3
+R5
+32
+R6
+!i10b 1
+R7
+R8
+R9
+!i113 1
+R10
+R11

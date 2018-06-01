@@ -1,0 +1,2 @@
+DefaultView = mux.vhd
+Top = false

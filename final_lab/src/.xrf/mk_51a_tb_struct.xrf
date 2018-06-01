@@ -1,0 +1,56 @@
+DESIGN mk_51a_tb
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN mk_51a_tb
+VIEW symbol.sb
+GRAPHIC 50,0 11 0 
+DESIGN mk_51a_tb
+VIEW symbol.sb
+GRAPHIC 1,0 14 0 
+DESIGN mk_51a_tb
+VIEW symbol.sb
+GRAPHIC 1,0 15 0 
+DESIGN mk_51a_tb
+VIEW struct.bd
+NO_GRAPHIC 19
+DESIGN mk_51a_tb
+VIEW struct.bd
+GRAPHIC 62,0 28 0 
+DESIGN mk_51a_tb
+VIEW struct.bd
+NO_GRAPHIC 32
+DESIGN mk_51a_tb
+VIEW struct.bd
+GRAPHIC 0,0 35 2 
+DESIGN mk_51a_tb
+VIEW struct.bd
+NO_GRAPHIC 39
+LIBRARY final_lab
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 21,0 41 0 
+DESIGN mk_51a_tb
+VIEW struct.bd
+GRAPHIC 9,0 43 0 
+LIBRARY final_lab
+DESIGN mk_51a_tb
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN mk_51a_tb
+VIEW struct.bd
+GRAPHIC 21,0 48 0 
+DESIGN mk_51a_tb
+VIEW struct.bd
+GRAPHIC 9,0 49 0 
+DESIGN mk_51a_tb
+VIEW struct.bd
+NO_GRAPHIC 52
+DESIGN mk_51a_tb
+VIEW struct.bd
+GRAPHIC 21,0 55 0 
+DESIGN mk_51a_tb
+VIEW struct.bd
+GRAPHIC 9,0 56 0 
+DESIGN mk_51a_tb
+VIEW struct.bd
+NO_GRAPHIC 58

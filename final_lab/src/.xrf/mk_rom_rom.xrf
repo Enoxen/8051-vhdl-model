@@ -1,0 +1,3 @@
+DESIGN mk_rom
+VIEW rom.vhd
+GRAPHIC 1,0 0 0 

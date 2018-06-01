@@ -1,0 +1,647 @@
+DESIGN mk_51a
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN mk_51a
+VIEW symbol.sb
+GRAPHIC 50,0 11 0 
+DESIGN mk_51a
+VIEW symbol.sb
+GRAPHIC 1,0 17 0 
+DESIGN mk_51a
+VIEW symbol.sb
+GRAPHIC 1,0 18 0 
+DESIGN mk_51a
+VIEW struct.bd
+NO_GRAPHIC 22
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 42,0 31 0 
+DESIGN mk_51a
+VIEW struct.bd
+NO_GRAPHIC 40
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 0,0 43 2 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 963,0 48 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 957,0 49 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 711,0 50 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 717,0 51 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 735,0 52 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 699,0 53 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 649,0 54 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 643,0 55 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 631,0 56 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 705,0 57 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 753,0 58 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 759,0 59 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 948,0 60 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 723,0 61 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 969,0 62 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 975,0 63 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 942,0 64 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1147,0 65 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1067,0 66 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 637,0 67 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1790,0 68 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1079,0 69 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1879,0 70 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1173,0 71 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1043,0 72 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1191,0 73 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1149,0 74 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1119,0 75 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1873,0 76 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1145,0 77 0 
+DESIGN mk_51a
+VIEW struct.bd
+NO_GRAPHIC 78
+DESIGN mk_51a
+VIEW struct.bd
+NO_GRAPHIC 79
+LIBRARY final_lab
+DESIGN mk_alu
+VIEW alu.vhd
+GRAPHIC 86,0 81 0 
+DESIGN mk_alu
+VIEW symbol.sb
+GRAPHIC 52,0 83 0 
+DESIGN mk_alu
+VIEW symbol.sb
+GRAPHIC 62,0 84 0 
+DESIGN mk_alu
+VIEW symbol.sb
+GRAPHIC 57,0 85 0 
+DESIGN mk_alu
+VIEW symbol.sb
+GRAPHIC 77,0 86 0 
+DESIGN mk_alu
+VIEW symbol.sb
+GRAPHIC 72,0 87 0 
+DESIGN mk_alu
+VIEW symbol.sb
+GRAPHIC 67,0 88 0 
+DESIGN mk_alu
+VIEW symbol.sb
+GRAPHIC 87,0 89 0 
+DESIGN mk_alu
+VIEW symbol.sb
+GRAPHIC 92,0 90 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 194,0 93 0 
+DESIGN mk_pc
+VIEW symbol.sb
+GRAPHIC 77,0 95 0 
+DESIGN mk_pc
+VIEW symbol.sb
+GRAPHIC 82,0 96 0 
+DESIGN mk_pc
+VIEW symbol.sb
+GRAPHIC 57,0 97 0 
+DESIGN mk_pc
+VIEW symbol.sb
+GRAPHIC 67,0 98 0 
+DESIGN mk_pc
+VIEW symbol.sb
+GRAPHIC 72,0 99 0 
+DESIGN mk_pc
+VIEW symbol.sb
+GRAPHIC 62,0 100 0 
+DESIGN mk_pc
+VIEW symbol.sb
+GRAPHIC 93,0 101 0 
+DESIGN mk_pc
+VIEW symbol.sb
+GRAPHIC 52,0 102 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 257,0 105 0 
+DESIGN mk_ram
+VIEW symbol.sb
+GRAPHIC 52,0 107 0 
+DESIGN mk_ram
+VIEW symbol.sb
+GRAPHIC 87,0 108 0 
+DESIGN mk_ram
+VIEW symbol.sb
+GRAPHIC 57,0 109 0 
+DESIGN mk_ram
+VIEW symbol.sb
+GRAPHIC 77,0 110 0 
+DESIGN mk_ram
+VIEW symbol.sb
+GRAPHIC 93,0 111 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 304,0 114 0 
+DESIGN mk_reg1
+VIEW symbol.sb
+GRAPHIC 62,0 116 0 
+DESIGN mk_reg1
+VIEW symbol.sb
+GRAPHIC 57,0 117 0 
+DESIGN mk_reg1
+VIEW symbol.sb
+GRAPHIC 52,0 118 0 
+DESIGN mk_reg1
+VIEW symbol.sb
+GRAPHIC 67,0 119 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 351,0 122 0 
+DESIGN mk_reg2
+VIEW symbol.sb
+GRAPHIC 62,0 124 0 
+DESIGN mk_reg2
+VIEW symbol.sb
+GRAPHIC 57,0 125 0 
+DESIGN mk_reg2
+VIEW symbol.sb
+GRAPHIC 52,0 126 0 
+DESIGN mk_reg2
+VIEW symbol.sb
+GRAPHIC 72,0 127 0 
+DESIGN mk_reg2
+VIEW symbol.sb
+GRAPHIC 67,0 128 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 398,0 131 0 
+DESIGN mk_rom
+VIEW symbol.sb
+GRAPHIC 52,0 133 0 
+DESIGN mk_rom
+VIEW symbol.sb
+GRAPHIC 67,0 134 0 
+DESIGN mk_rom
+VIEW symbol.sb
+GRAPHIC 62,0 135 0 
+DESIGN mk_rom
+VIEW symbol.sb
+GRAPHIC 73,0 136 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1487,0 139 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 147,0 141 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 152,0 142 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 157,0 143 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 178,0 144 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 162,0 145 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 67,0 146 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 62,0 147 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 82,0 148 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 112,0 149 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 127,0 150 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 87,0 151 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 92,0 152 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 97,0 153 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 102,0 154 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 107,0 155 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 52,0 156 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 57,0 157 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 137,0 158 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 117,0 159 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 77,0 160 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 122,0 161 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 132,0 162 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 200,0 163 0 
+DESIGN mk_uu
+VIEW symbol.sb
+GRAPHIC 205,0 164 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1099,0 167 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1111,0 169 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1121,0 170 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1960,0 173 0 
+DESIGN temp_mux
+VIEW symbol.sb
+GRAPHIC 83,0 175 0 
+DESIGN temp_mux
+VIEW symbol.sb
+GRAPHIC 57,0 176 0 
+DESIGN temp_mux
+VIEW symbol.sb
+GRAPHIC 62,0 177 0 
+DESIGN temp_mux
+VIEW symbol.sb
+GRAPHIC 67,0 178 0 
+DESIGN temp_mux
+VIEW symbol.sb
+GRAPHIC 72,0 179 0 
+LIBRARY final_lab
+DESIGN mk_51a
+VIEW struct.bd
+NO_GRAPHIC 182
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 86,0 185 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 194,0 186 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 257,0 187 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 304,0 188 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 351,0 189 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 398,0 190 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1487,0 191 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1099,0 192 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1960,0 193 0 
+DESIGN mk_51a
+VIEW struct.bd
+NO_GRAPHIC 196
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 86,0 199 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1175,0 201 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1063,0 202 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 989,0 203 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1069,0 204 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1081,0 205 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 995,0 206 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 713,0 207 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 639,0 208 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 194,0 210 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 701,0 212 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 639,0 213 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 633,0 214 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 651,0 215 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 707,0 216 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 645,0 217 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1045,0 218 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1031,0 219 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 257,0 221 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 983,0 223 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 655,0 224 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 719,0 225 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 725,0 226 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1085,0 227 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 304,0 229 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 971,0 231 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 667,0 232 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1881,0 233 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 989,0 234 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 782,0 236 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 977,0 238 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 936,0 239 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1253,0 240 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 983,0 241 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 351,0 243 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 741,0 245 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 755,0 246 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 761,0 247 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1063,0 248 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 999,0 249 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 894,0 251 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 930,0 253 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 965,0 254 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 959,0 255 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1175,0 256 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1011,0 257 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1754,0 259 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 924,0 261 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 950,0 262 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 944,0 263 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1786,0 264 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1005,0 265 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 398,0 267 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1045,0 269 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 729,0 270 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 737,0 271 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1055,0 272 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1487,0 274 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1786,0 276 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 995,0 277 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 747,0 278 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1081,0 279 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1121,0 280 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 965,0 281 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 959,0 282 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 713,0 283 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 719,0 284 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 737,0 285 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 701,0 286 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 651,0 287 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 645,0 288 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 633,0 289 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 707,0 290 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 755,0 291 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 761,0 292 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 950,0 293 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 725,0 294 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 971,0 295 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 977,0 296 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 944,0 297 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1069,0 298 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1875,0 299 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1099,0 301 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1960,0 306 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1989,0 308 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1855,0 309 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1867,0 310 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1875,0 311 0 
+DESIGN mk_51a
+VIEW struct.bd
+GRAPHIC 1881,0 312 0 
+DESIGN mk_51a
+VIEW struct.bd
+NO_GRAPHIC 315
